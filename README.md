@@ -16,19 +16,9 @@
 
 #### 🛠 Tech Stack
 
----
+###### HTML CSS Javascript TypeScript Bootstrap React NodeJS MongoDB Express
 
-- HTML
-- CSS
-- Javascript
-- TypeScript
-- Bootstrap
-- React
-- NodeJS
-- MongoDB
-- Express
-
-<div style="display:flex;justify-content:space-between;align-items:baseline; margin-top:-20px>
+<div style="display:flex;justify-content:space-between;align-items:baseline; margin-top:-200px>
 
 <a href="https://github.com/frausafiye/github-readme-stats" >
   <img src="https://github-readme-stats.vercel.app/api?username=frausafiye&theme=dark&show_icons=true" width="40%" height="400px"/>
