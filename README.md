@@ -31,11 +31,11 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frausafiye&repo=github-readme-stats)](https://github.com/frausafiye/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frausafiye)](https://github.com/frausafiye/github-readme-stats) -->
-<div style="display:flex">
+<div style="display:flex;width:90%">
 <a href="https://github.com/frausafiye/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=frausafiye&theme=dark&show_icons=true" width="50%" height="300px"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=frausafiye&theme=dark&show_icons=true" width="40%" height="400px"/>
 </a>
 <a href="https://github.com/frausafiye/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=frausafiye&layout=compact&theme=dark" width="50%" height="300px"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=frausafiye&layout=compact&theme=dark" width="40%" height="400px"/>
 </a>
 </div>
