@@ -16,17 +16,7 @@
 
 #### 🛠 Tech Stack
 
----
-
-- HTML
-- CSS
-- Javascript
-- TypeScript
-- Bootstrap
-- React
-- NodeJS
-- MongoDB
-- Express
+###### HTML, CSS, Javascript, TypeScript, Bootstrap, React, NodeJS, MongoDB, Express
 
 <div style="display:flex;width:90%;justify-content:space-between;align-items:baseline">
 <a href="https://github.com/frausafiye/github-readme-stats">
