@@ -1,6 +1,4 @@
-✨✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
-
-##### Welcome to my Github Profile 👋
+#### Welcome to my Github Profile 👋
 
 #### ✨✨ About Me ✨✨
 
@@ -19,17 +17,18 @@
 
 ---
 
-<p> <span style="background-color:black;color:white"><em>HTML</em></span>, <span style="background-color:black;color:white"><em>CSS</em></span>,  <span style="background-color:black;color:white"><em>Javascript</em></span>, <span style="background-color:black;color:white"><em>TypeScript</em></span>,  <span style="background-color:black;color:white"><em>Bootstrap</em></span>,  <span style="background-color:black;color:white"><em>React</em></span>,  <span style="background-color:black;color:white"><em>NodeJS</em></span>,  <span style="background-color:black;color:white"><em>MongoDB</em></span>,  <span style="background-color:black;color:white"><em>Express</em></span></p>
+<p> <span style="background-color:black;color:white;font-weight:bold">HTML</span>, <span style="background-color:black;color:white;font-weight:bold">CSS</span>,  <span style="background-color:black;color:white;font-weight:bold">Javascript</span>, <span style="background-color:black;color:white;font-weight:bold">TypeScript</span>,  <span style="background-color:black;color:white;font-weight:bold">Bootstrap</span>,  <span style="background-color:black;color:white;font-weight:bold">React</span>,  <span style="background-color:black;color:white;font-weight:bold">NodeJS</span>,  <span style="background-color:black;color:white;font-weight:bold">MongoDB</span>,  <span style="background-color:black;color:white;font-weight:bold">Express</span></p>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frausafiye&repo=github-readme-stats)](https://github.com/frausafiye/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frausafiye)](https://github.com/frausafiye/github-readme-stats) -->
-<div style="display:flex">
+<div style="display:inline,width:30%">
 <a href="https://github.com/frausafiye/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=frausafiye&theme=dark&show_icons=true" />
 </a>
-
+</div>
+<div style="display:inline,width:30%">
 <a href="https://github.com/frausafiye/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frausafiye&layout=compact&theme=dark" />
 </a>
-<div>
+</div>
