@@ -5,7 +5,7 @@
 ---
 
 <div style="display:flex; justify-content:space-between; align-items:baseline">
-<div style="width:50%">
+<div style="width:50%;display:inline">
 
 - 👩‍🏫 I’m currently working as a Trainer at Digital Career Institute
 - 📢 I am looking for a Junior Web Developer Position
@@ -27,7 +27,8 @@
 ---
 
 <div style="display:flex ;justify-content:space-between; align-items:baseline">
-<div style="width:50%; display:flex; flex-direction: column">
+<div style="width:30%; display:flex; flex-direction: column">
+
 - HTML
 - CSS
 - Javascript
@@ -37,6 +38,7 @@
 - NodeJS
 - MongoDB
 - Express
+
 </div>
 <a href="https://github.com/frausafiye/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=frausafiye&layout=compact&theme=dark" width="45%" height="400px"/>
