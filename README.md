@@ -5,7 +5,7 @@
 ---
 
 <div style="display:flex; justify-content:space-between; align-items:baseline">
-<div style="width:50%;display:inline">
+<div style="width:40%;display:inline-block">
 
 - 👩‍🏫 I’m currently working as a Trainer at Digital Career Institute
 - 📢 I am looking for a Junior Web Developer Position
@@ -17,7 +17,7 @@
 - 😄 Pronouns: she/her
 - 🙌 Respect to anyone
 </div>
-<a href="https://github.com/frausafiye/github-readme-stats">
+<a href="https://github.com/frausafiye/github-readme-stats" style="display:inline">
   <img  src="https://github-readme-stats.vercel.app/api?username=frausafiye&theme=dark&show_icons=true" width="40%" height="400px"/>
 </a>
 </div>
@@ -27,7 +27,7 @@
 ---
 
 <div style="display:flex ;justify-content:space-between; align-items:baseline">
-<div style="width:30%; display:flex; flex-direction: column">
+<div style="width:30%">
 
 - HTML
 - CSS
@@ -40,7 +40,7 @@
 - Express
 
 </div>
-<a href="https://github.com/frausafiye/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=frausafiye&layout=compact&theme=dark" width="45%" height="400px"/>
+<a href="https://github.com/frausafiye/github-readme-stats" style="display:inline">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=frausafiye&layout=compact&theme=dark"/>
 </a>
 </div>
