@@ -1,13 +1,8 @@
-<style>
-span { background-color:black;color:white }
-
-</style>
-
-✨✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
+✨✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
 
 ##### Welcome to my Github Profile 👋
 
-###### ✨✨ About Me ✨✨
+#### ✨✨ About Me ✨✨
 
 ---
 
@@ -20,11 +15,11 @@ span { background-color:black;color:white }
 - 😄 Pronouns: she/her
 - 🙌 Respect to anyone
 
-###### 🛠 Tech Stack
+#### 🛠 Tech Stack
 
 ---
 
-<p> <span><em>HTML</em></span>, <span><em>CSS</em></span>,  <span><em>Javascript</em></span>, <span><em>TypeScript</em></span>,  <span><em>Bootstrap</em></span>,  <span><em>React</em></span>,  <span><em>NodeJS</em></span>,  <span><em>MongoDB</em></span>,  <span><em>Express</em></span></p>
+<p> <span style="background-color:black;color:white"><em>HTML</em></span>, <span style="background-color:black;color:white"><em>CSS</em></span>,  <span style="background-color:black;color:white"><em>Javascript</em></span>, <span style="background-color:black;color:white"><em>TypeScript</em></span>,  <span style="background-color:black;color:white"><em>Bootstrap</em></span>,  <span style="background-color:black;color:white"><em>React</em></span>,  <span style="background-color:black;color:white"><em>NodeJS</em></span>,  <span style="background-color:black;color:white"><em>MongoDB</em></span>,  <span style="background-color:black;color:white"><em>Express</em></span></p>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frausafiye&repo=github-readme-stats)](https://github.com/frausafiye/github-readme-stats)
 
@@ -37,4 +32,3 @@ span { background-color:black;color:white }
 <a href="https://github.com/frausafiye/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frausafiye&layout=compact&theme=dark" />
 </a>
-✨✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
