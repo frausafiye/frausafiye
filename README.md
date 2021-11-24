@@ -16,7 +16,9 @@
 
 #### 🛠 Tech Stack
 
-###### HTML CSS Javascript TypeScript Bootstrap React NodeJS MongoDB Express
+---
+
+##### HTML CSS Javascript TypeScript Bootstrap React NodeJS MongoDB Express
 
 <div style="display:flex;justify-content:space-between;align-items:baseline; margin-top:-200px>
 
