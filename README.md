@@ -30,9 +30,9 @@
 
 <div style="display:flex;justify-content:space-between;align-items:baseline>
 
-<a href="https://github.com/frausafiye/github-readme-stats" style="float:right">
+<a href="https://github.com/frausafiye/github-readme-stats" >
   <img src="https://github-readme-stats.vercel.app/api?username=frausafiye&theme=dark&show_icons=true" width="40%" height="400px"/>
 </a>
-<a href="https://github.com/frausafiye/github-readme-stats" style="float:right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frausafiye&layout=compact&theme=dark"/>
+<a href="https://github.com/frausafiye/github-readme-stats" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frausafiye&layout=compact&theme=dark" width="40%" height="400px"/>
 </a>
