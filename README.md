@@ -18,24 +18,21 @@
 
 ---
 
-<span style="background-color:black;color:white;font-weight:bold">HTML</span>
-<span style="background-color:black;color:white;font-weight:bold">CSS</span>
-<span style="background-color:black;color:white;font-weight:bold">Javascript</span>
-<span style="background-color:black;color:white;font-weight:bold">TypeScript</span>
-<span style="background-color:black;color:white;font-weight:bold">Bootstrap</span>
-<span style="background-color:black;color:white;font-weight:bold">React</span>
-<span style="background-color:black;color:white;font-weight:bold">NodeJS</span>
-<span style="background-color:black;color:white;font-weight:bold">MongoDB</span>
-<span style="background-color:black;color:white;font-weight:bold">Express</span>
+- HTML
+- CSS
+- Javascript
+- TypeScript
+- Bootstrap
+- React
+- NodeJS
+- MongoDB
+- Express
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frausafiye&repo=github-readme-stats)](https://github.com/frausafiye/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frausafiye)](https://github.com/frausafiye/github-readme-stats) -->
-<div style="display:flex;width:90%">
+<div style="display:flex;width:90%;justify-content:space-between;align-items:baseline">
 <a href="https://github.com/frausafiye/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=frausafiye&theme=dark&show_icons=true" width="40%" height="400px"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=frausafiye&theme=dark&show_icons=true" width="45%" height="400px"/>
 </a>
 <a href="https://github.com/frausafiye/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=frausafiye&layout=compact&theme=dark" width="40%" height="400px"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=frausafiye&layout=compact&theme=dark" width="45%" height="400px"/>
 </a>
 </div>
