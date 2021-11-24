@@ -21,8 +21,8 @@
 <div style="display:flex;justify-content:space-between;align-items:baseline; margin-top:-200px>
 
 <a href="https://github.com/frausafiye/github-readme-stats" >
-  <img src="https://github-readme-stats.vercel.app/api?username=frausafiye&theme=dark&show_icons=true" width="40%" height="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=frausafiye&theme=dark&show_icons=true" width="40%"/>
 </a>
 <a href="https://github.com/frausafiye/github-readme-stats" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frausafiye&layout=compact&theme=dark" width="40%" height="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frausafiye&layout=compact&theme=dark" width="40%" />
 </a>
