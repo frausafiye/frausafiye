@@ -5,7 +5,7 @@
 ---
 
 <div style="display:flex; justify-content:space-between; align-items:baseline">
-<div>
+<div style="width:50%">
 
 - 👩‍🏫 I’m currently working as a Trainer at Digital Career Institute
 - 📢 I am looking for a Junior Web Developer Position
@@ -27,7 +27,7 @@
 ---
 
 <div style="display:flex ;justify-content:space-between; align-items:baseline">
-<div>
+<div style="width:50%; display:flex; flex-direction: column">
 - HTML
 - CSS
 - Javascript
