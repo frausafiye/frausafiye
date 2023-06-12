@@ -4,9 +4,9 @@
 
 ---
 
-- 👩‍🏫 I’m currently working as a Trainer at Digital Career Institute
-- 📢 I am looking for a Junior Web Developer Position
-- 🌱 I’m currently learning _Jest_ and trying to deepen my knowledge of _Typescript_
+- 👩‍🏫 I’m currently working as a Web Development Teacher at Digital Career Institute
+- 📢 I am looking for a Frontend or Full-Stack Web Developer Position
+- 🌱 I’m currently learning _Java_ and trying to deepen my knowledge of _Typescript_
 - 📫 Email: <s_gulenc@outlook.com>
 - 🔗 Linkedin: <https://www.linkedin.com/in/safiye-gulenc>
 - 🗨️ I can speak _English_
